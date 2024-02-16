@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tkiral
 - 👀 I’m interested in HPC
-- 🌱 I’m currently learning Rust-after that is C++, advanced Bash and C
+- 🌱 I’m currently learning C and Rust
 - 💞️ I’m looking to collaborate on any low level open source projects that use the tech mentioned above
 - 📫 You can reach me at tkiral@tutanota.com
 
